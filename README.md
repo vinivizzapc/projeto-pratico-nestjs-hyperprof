@@ -1,11 +1,7 @@
 # Desafio: HyperProf
 
 <p align="center">
-  <img src="https://github.com/treinaweb.png" width="200">
-</p>
-
-<p align="center">
-  HyperProf by <a href="https://github.com/CleysonPH">CleysonPH</a>
+  HyperProf by <a href="https://github.com/vinivizzapc">Vinicius Vizza</a>
 </p>
 
 <p align="center">
